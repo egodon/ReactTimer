@@ -15,12 +15,13 @@ var Navigation = () => {
             </li>
           </ul>
         </div>
-        <div className="top-bar-right"></div>
+        <div className="top-bar-right">
           <ul className="menu">
             <li className="menu-text">
               Created by Evan Godon
             </li>
           </ul>
+        </div>
       </div>
     );
 };
